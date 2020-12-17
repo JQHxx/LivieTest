@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		39A51E4228748ED6664DF10B /* libPods-LiveTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 893C3E19D3506D3D55B4129D /* libPods-LiveTest.a */; };
+		A0F8F1C4258AE8A400C2B0AE /* IJKMediaFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0F8F1C3258AE8A400C2B0AE /* IJKMediaFramework.framework */; };
+		A0F8F1CF258AEA1000C2B0AE /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A0F8F1CE258AEA1000C2B0AE /* libc++.tbd */; };
 		A1BBF2C41E84DD700025B6DD /* GPUImageBeautifyFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = A1BBF2C31E84DD700025B6DD /* GPUImageBeautifyFilter.m */; };
 		A1CF5A081E8A4FD900B1E4CB /* ImageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A1CF5A071E8A4FD900B1E4CB /* ImageVC.m */; };
 		A1CF5A0A1E8A502200B1E4CB /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = A1CF5A091E8A502200B1E4CB /* 2.png */; };
@@ -38,7 +40,6 @@
 		A1DAD7401E83733A0048CEC8 /* ZZLiveCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A1DAD73E1E83733A0048CEC8 /* ZZLiveCell.m */; };
 		A1DAD7411E83733A0048CEC8 /* ZZLiveCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1DAD73F1E83733A0048CEC8 /* ZZLiveCell.xib */; };
 		A1DAD7461E837FA30048CEC8 /* ZZLiveController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1DAD7451E837FA30048CEC8 /* ZZLiveController.m */; };
-		A1DAD74C1E83883C0048CEC8 /* IJKMediaFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1DAD74B1E83883C0048CEC8 /* IJKMediaFramework.framework */; };
 		A1DAD7511E83ABA30048CEC8 /* UIImage+blur.m in Sources */ = {isa = PBXBuildFile; fileRef = A1DAD7501E83ABA30048CEC8 /* UIImage+blur.m */; };
 		A1DAD7561E83C0DE0048CEC8 /* ZZCaptureController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1DAD7551E83C0DE0048CEC8 /* ZZCaptureController.m */; };
 		A1EA9B801E8CA6F600CE26D4 /* ZZGiftItem.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EA9B7F1E8CA6F600CE26D4 /* ZZGiftItem.m */; };
@@ -69,6 +70,8 @@
 		62243203F2B3F0B511DB366E /* Pods-LiveTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LiveTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-LiveTest/Pods-LiveTest.release.xcconfig"; sourceTree = "<group>"; };
 		7A351D4C9E7D316F245780C0 /* Pods-LiveTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LiveTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LiveTest/Pods-LiveTest.debug.xcconfig"; sourceTree = "<group>"; };
 		893C3E19D3506D3D55B4129D /* libPods-LiveTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LiveTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0F8F1C3258AE8A400C2B0AE /* IJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IJKMediaFramework.framework; sourceTree = "<group>"; };
+		A0F8F1CE258AEA1000C2B0AE /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
 		A1BBF2C21E84DD700025B6DD /* GPUImageBeautifyFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPUImageBeautifyFilter.h; sourceTree = "<group>"; };
 		A1BBF2C31E84DD700025B6DD /* GPUImageBeautifyFilter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GPUImageBeautifyFilter.m; sourceTree = "<group>"; };
 		A1CF5A061E8A4FD900B1E4CB /* ImageVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageVC.h; sourceTree = "<group>"; };
@@ -115,7 +118,6 @@
 		A1DAD73F1E83733A0048CEC8 /* ZZLiveCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZZLiveCell.xib; sourceTree = "<group>"; };
 		A1DAD7441E837FA30048CEC8 /* ZZLiveController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZLiveController.h; sourceTree = "<group>"; };
 		A1DAD7451E837FA30048CEC8 /* ZZLiveController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZLiveController.m; sourceTree = "<group>"; };
-		A1DAD74B1E83883C0048CEC8 /* IJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IJKMediaFramework.framework; sourceTree = "<group>"; };
 		A1DAD74D1E838D9F0048CEC8 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		A1DAD74F1E83ABA30048CEC8 /* UIImage+blur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+blur.h"; sourceTree = "<group>"; };
 		A1DAD7501E83ABA30048CEC8 /* UIImage+blur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+blur.m"; sourceTree = "<group>"; };
@@ -139,9 +141,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0F8F1CF258AEA1000C2B0AE /* libc++.tbd in Frameworks */,
 				A1DAD7331E836CB90048CEC8 /* libPods-LiveTest.a in Frameworks */,
 				A1DAD7261E8363C90048CEC8 /* VideoToolbox.framework in Frameworks */,
 				A1DAD7221E8363BC0048CEC8 /* QuartzCore.framework in Frameworks */,
+				A0F8F1C4258AE8A400C2B0AE /* IJKMediaFramework.framework in Frameworks */,
 				A1DAD7201E8363B30048CEC8 /* OpenGLES.framework in Frameworks */,
 				A1DAD71E1E8363AB0048CEC8 /* MobileCoreServices.framework in Frameworks */,
 				A1DAD71C1E8363A20048CEC8 /* MediaPlayer.framework in Frameworks */,
@@ -152,7 +156,6 @@
 				A1DAD7121E8363780048CEC8 /* AudioToolbox.framework in Frameworks */,
 				A1DAD7101E8363700048CEC8 /* libbz2.tbd in Frameworks */,
 				A1DAD70E1E8363640048CEC8 /* libz.tbd in Frameworks */,
-				A1DAD74C1E83883C0048CEC8 /* IJKMediaFramework.framework in Frameworks */,
 				39A51E4228748ED6664DF10B /* libPods-LiveTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,8 +259,9 @@
 		A1D064591E828D9000A122BD /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A0F8F1CE258AEA1000C2B0AE /* libc++.tbd */,
+				A0F8F1C3258AE8A400C2B0AE /* IJKMediaFramework.framework */,
 				A1DAD7571E83D2160048CEC8 /* libc++abi.tbd */,
-				A1DAD74B1E83883C0048CEC8 /* IJKMediaFramework.framework */,
 				A1DAD7321E836CB90048CEC8 /* libPods-LiveTest.a */,
 				A1DAD7251E8363C90048CEC8 /* VideoToolbox.framework */,
 				A1DAD7231E8363C20048CEC8 /* UIKit.framework */,
@@ -285,16 +289,8 @@
 				A1DAD74E1E83AB140048CEC8 /* Category */,
 				A1DAD7421E837F630048CEC8 /* Live */,
 				A1DAD72B1E8369060048CEC8 /* VideoList */,
-				A1DAD72A1E8368E80048CEC8 /* Main */,
 			);
 			path = Classes;
-			sourceTree = "<group>";
-		};
-		A1DAD72A1E8368E80048CEC8 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Main;
 			sourceTree = "<group>";
 		};
 		A1DAD72B1E8369060048CEC8 /* VideoList */ = {
@@ -441,7 +437,6 @@
 				A1D0641D1E828D2200A122BD /* Sources */,
 				A1D0641E1E828D2200A122BD /* Frameworks */,
 				A1D0641F1E828D2200A122BD /* Resources */,
-				C804B9896DAC65398610499E /* [CP] Embed Pods Frameworks */,
 				99FB1943E3D0AF3D9324EB5B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -500,7 +495,7 @@
 				TargetAttributes = {
 					A1D064201E828D2200A122BD = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 245WE9LE4D;
+						DevelopmentTeam = 76RA22T2W7;
 						ProvisioningStyle = Automatic;
 					};
 					A1D064391E828D2200A122BD = {
@@ -520,6 +515,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -571,13 +567,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LiveTest-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		99FB1943E3D0AF3D9324EB5B /* [CP] Copy Pods Resources */ = {
@@ -586,28 +585,24 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-LiveTest/Pods-LiveTest-resources.sh",
+				"${PODS_ROOT}/GPUImage/framework/Resources/lookup.png",
+				"${PODS_ROOT}/GPUImage/framework/Resources/lookup_amatorka.png",
+				"${PODS_ROOT}/GPUImage/framework/Resources/lookup_miss_etikate.png",
+				"${PODS_ROOT}/GPUImage/framework/Resources/lookup_soft_elegance_1.png",
+				"${PODS_ROOT}/GPUImage/framework/Resources/lookup_soft_elegance_2.png",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/lookup.png",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/lookup_amatorka.png",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/lookup_miss_etikate.png",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/lookup_soft_elegance_1.png",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/lookup_soft_elegance_2.png",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LiveTest/Pods-LiveTest-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C804B9896DAC65398610499E /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LiveTest/Pods-LiveTest-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LiveTest/Pods-LiveTest-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -783,17 +778,17 @@
 			baseConfigurationReference = 7A351D4C9E7D316F245780C0 /* Pods-LiveTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 245WE9LE4D;
+				DEVELOPMENT_TEAM = 76RA22T2W7;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				GCC_PREFIX_HEADER = /Users/Andy/Desktop/LiveTest/LiveTest/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = LiveTest/PrefixHeader.pch;
 				INFOPLIST_FILE = LiveTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = duobao.LiveTest;
+				PRODUCT_BUNDLE_IDENTIFIER = duobao.LiveTest100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -803,17 +798,17 @@
 			baseConfigurationReference = 62243203F2B3F0B511DB366E /* Pods-LiveTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 245WE9LE4D;
+				DEVELOPMENT_TEAM = 76RA22T2W7;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				GCC_PREFIX_HEADER = /Users/Andy/Desktop/LiveTest/LiveTest/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = LiveTest/PrefixHeader.pch;
 				INFOPLIST_FILE = LiveTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = duobao.LiveTest;
+				PRODUCT_BUNDLE_IDENTIFIER = duobao.LiveTest100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
